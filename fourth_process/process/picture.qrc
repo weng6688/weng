@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../pic/weather.jpg</file>
+        <file>../pic/video.jpg</file>
+        <file>../pic/video.ai</file>
+        <file>../pic/up.ai</file>
+        <file>../pic/start.jpg</file>
+        <file>../pic/start_stop.ai</file>
+        <file>../pic/music.jpg</file>
+        <file>../pic/ming.jpg</file>
+        <file>../pic/hu.jpg</file>
+        <file>../pic/end.jpg</file>
+        <file>../pic/down.ai</file>
+        <file>../pic/dong.jpg</file>
+        <file>../pic/ai.jpg</file>
+        <file>../pic/stop.jpg</file>
+        <file>../pic/nature.jpg</file>
+        <file>../pic/xingkong.jpg</file>
+    </qresource>
+</RCC>
